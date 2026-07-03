@@ -1,6 +1,7 @@
 NL
 
 KeVleX
+
 KeVleX is een op PowerShell gebaseerde applicatie voor gereedschapsbeheer en machinevoorbereiding binnen CNC-productieomgevingen. Het systeem combineert machinegegevens, TDM-toolinginformatie en Vericut tool-life analyse in één centrale gebruikersinterface.
 Het doel van KeVleX is het vereenvoudigen van dagelijkse tooling- en voorbereidingsprocessen door informatie uit verschillende systemen samen te brengen in één overzichtelijk dashboard.
 Functionaliteiten
@@ -69,6 +70,7 @@ KeVleX is een actief ontwikkelproject dat wordt gebouwd en getest in een product
 EN
 
 KeVleX
+
 KeVleX is a PowerShell-based CNC tooling management and machine preparation application designed to provide a centralized overview of machine tooling, TDM data, and Vericut tool-life information.
 The project was created to simplify daily tooling management tasks in a production environment by combining information that is normally spread across multiple systems into a single, easy-to-use dashboard.
 Features
