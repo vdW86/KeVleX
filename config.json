@@ -1,0 +1,28 @@
+{
+	"machine": {
+		"name": "MATEC-40P ALM",
+		"ip": "10.90.130.44",
+		"tncPath": "C:\\Program Files (x86)\\HEIDENHAIN\\TNCremo\\tnccmd.exe",
+		"max_pockets": 120
+	},
+
+	"paths": {
+		"tool_t_remote": "TNC:\\tool.t",
+		"tool_p_remote": "TNC:\\tool_p.tch",
+		"vericut_times": "H:\\Data\\Desktop\\1.Machine_Technisch\\5.PC_Scripts\\Projects\\KeVleX\\VericutTimes"
+	},
+
+	"settings": {
+		"timeout_sec": 15
+	},
+
+	"tool_fields": {
+		"time1": "TIME1",
+		"time2": "TIME2",
+		"current_time": "CUR.TIME"
+	},
+  
+	"database": {
+		"connectionString": "Server=TDM_ETG_SQL_PRD;Database=TDM_PRD;User Id=tms;Password=tms;"
+	}
+}
