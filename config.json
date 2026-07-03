@@ -23,6 +23,6 @@
 	},
   
 	"database": {
-		"connectionString": "Server=TDM_ETG_SQL_PRD;Database=TDM_PRD;User Id=tms;Password=tms;"
+		"connectionString": "Server=TDM_KlaassenBV_SQL_PRD;Database=TDM_PRD;User Id=JanKlaassen;Password=anKlaassen;"
 	}
 }
